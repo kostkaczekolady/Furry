@@ -1,7 +1,7 @@
 # FurryGame 
 Furry Game is a simple game in JavaScript from CodersLab's workshops. Furry moves on board and collect coins, which are on a random fields. Player controls Furry by arrow kyes. When he or she collect coins, then will get 1 point. Till player won't hit the wall, game won't end. 
 
-![FurryGame](Furry.png)
+![FurryGame](furry.png)
 
 ## Instalation
 
