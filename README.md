@@ -13,3 +13,4 @@ Furry Game is a simple game in JavaScript from CodersLab's workshops. Furry move
 Made with HTML, CSS, Webpack and JavaScript
 ## [Furry demo](https://kostkaczekolady.github.io/Furry/)
 
+
